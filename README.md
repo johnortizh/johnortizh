@@ -1,10 +1,11 @@
-### Hi there 👋
-
+### Hola! Mi nombre es John Ortiz 👋
+[![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJohnO1803)](https://twitter.com/JohnO1803)
 <!--
 **johnortiz18/johnortiz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Mis redes
 
-[![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJohnO1803
-)](https://twitter.com/JohnO1803)
+
+##[![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJohnO1803)](https://twitter.com/JohnO1803)
 
 Here are some ideas to get you started:
 
