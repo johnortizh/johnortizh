@@ -3,8 +3,9 @@
 <!--
 **johnortiz18/johnortiz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJohnO1803
+)](https://twitter.com/JohnO1803)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
