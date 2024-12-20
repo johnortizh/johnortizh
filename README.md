@@ -1,23 +1,17 @@
 ### Hola! Mi nombre es John Ortiz 👋
 
 🌟 Hola, soy John Ortiz 👋
-🚀 Tecnólogo en Desarrollo Informático por la Universidad ECCI y estudiante de Ingeniería de Sistemas en la Universidad EAN. Apasionado por la tecnología, el desarrollo de software y la innovación digital, siempre en busca de soluciones eficientes y creativas para los desafíos actuales.
+🚀 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con el desarrollo de páginas web, un espacio donde comparto mi aprendizaje y avances mientras exploro el mundo del desarrollo.
 
 💻 ¿Qué encontrarás aquí?
-Este espacio reúne mis proyectos y contribuciones en áreas como:
+* Ejercicios y proyectos prácticos en desarrollo web.
+* Propuestas simples y funcionales enfocadas en mejorar mis habilidades.
+* Mi evolución en el aprendizaje de nuevas técnicas y enfoques.
+🌱 Un poco sobre mí
+Soy estudiante de Ingeniería de Sistemas, con interés en el diseño y creación de soluciones digitales. Este espacio es una muestra de mi compromiso con el aprendizaje continuo y mi interés en el desarrollo web.
 
-Desarrollo de aplicaciones y soluciones tecnológicas.
-Diseño de interfaces centradas en el usuario.
-Prototipado y optimización de flujos de trabajo.
-Análisis y levantamiento de requerimientos para proyectos tecnológicos.
-Exploración de tendencias emergentes en tecnología y programación.
-🎯 Áreas de interés
-Inteligencia artificial y su aplicación en proyectos prácticos.
-Redes y conectividad, explorando la integración de dispositivos y sistemas.
-Gestión de proyectos y desarrollo de soluciones innovadoras.
-Aprendizaje continuo en temas relacionados con la transformación digital.
-🌍 Conéctate conmigo
-Estoy abierto a colaborar, aprender y compartir ideas. Este repositorio es un reflejo de mi compromiso con el crecimiento profesional y la creación de soluciones tecnológicas impactantes.
+🌍 Conectemos
+Si tienes sugerencias o ideas para mejorar, no dudes en compartirlas. Estoy aquí para aprender y colaborar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/johnortiz18)
 </br>
