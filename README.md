@@ -1,29 +1,23 @@
 ### Hola! Mi nombre es John Ortiz 👋
 
 🌟 Hola, soy John Ortiz 👋
-🚀 Tecnólogo en Desarrollo Informático por la Universidad ECCI y actualmente estudiante de Ingeniería de Sistemas en la Universidad EAN. Apasionado por la tecnología, el desarrollo de software y la innovación digital.
+🚀 Tecnólogo en Desarrollo Informático por la Universidad ECCI y estudiante de Ingeniería de Sistemas en la Universidad EAN. Apasionado por la tecnología, el desarrollo de software y la innovación digital, siempre en busca de soluciones eficientes y creativas para los desafíos actuales.
 
 💻 ¿Qué encontrarás aquí?
-En este espacio comparto proyectos, ideas y recursos relacionados con:
+Este espacio reúne mis proyectos y contribuciones en áreas como:
 
-Desarrollo web con tecnologías como HTML5, CSS3 y JavaScript.
-Bases de datos SQL y manejo de datos eficientes.
-Programación orientada a objetos y desarrollo con Java.
-Aplicaciones móviles para Android, incluyendo diseño de interfaces interactivas con Figma y Android Studio.
-Prototipos interactivos para optimizar experiencias de usuario.
-Proyectos relacionados con IoT, redes y conectividad.
+Desarrollo de aplicaciones y soluciones tecnológicas.
+Diseño de interfaces centradas en el usuario.
+Prototipado y optimización de flujos de trabajo.
+Análisis y levantamiento de requerimientos para proyectos tecnológicos.
+Exploración de tendencias emergentes en tecnología y programación.
 🎯 Áreas de interés
-Inteligencia artificial y aprendizaje automático.
-Redes y arquitectura de computadores.
-Gestión de proyectos tecnológicos y metodologías ágiles.
-Creación de soluciones a medida mediante análisis y levantamiento de requerimientos.
-🛠️ Herramientas y habilidades destacadas
-Desarrollo Frontend: HTML, CSS, JavaScript.
-Desarrollo móvil: Java, Android Studio.
-Diseño UI/UX: Figma, prototipado interactivo.
-Infraestructura tecnológica: Redes IoT, configuración y soporte técnico.
-Metodologías: Levantamiento de requerimientos, análisis de sistemas.
+Inteligencia artificial y su aplicación en proyectos prácticos.
+Redes y conectividad, explorando la integración de dispositivos y sistemas.
+Gestión de proyectos y desarrollo de soluciones innovadoras.
+Aprendizaje continuo en temas relacionados con la transformación digital.
 🌍 Conéctate conmigo
+Estoy abierto a colaborar, aprender y compartir ideas. Este repositorio es un reflejo de mi compromiso con el crecimiento profesional y la creación de soluciones tecnológicas impactantes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/johnortiz18)
 </br>
