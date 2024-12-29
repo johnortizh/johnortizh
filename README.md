@@ -20,5 +20,3 @@ Si tienes sugerencias o ideas para mejorar, no dudes en compartirlas. Estoy aqu�
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohnO1803)](https://twitter.com/JohnO1803)
 
 Si quieres colaborar, compartir ideas o explorar soluciones tecnológicas innovadoras, no dudes en contactarme. Este repositorio es un reflejo de mi pasión y compromiso por la tecnología.
-
-cambio
