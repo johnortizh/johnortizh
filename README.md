@@ -9,6 +9,7 @@
 * Mi evolución en el aprendizaje de nuevas técnicas y enfoques.
 
 🌱 Un poco sobre mí
+
 Soy estudiante de Ingeniería de Sistemas, con interés en el diseño y creación de soluciones digitales. Este espacio es una muestra de mi compromiso con el aprendizaje continuo y mi interés en el desarrollo web.
 
 🌍 Conectemos
